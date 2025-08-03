@@ -6,9 +6,10 @@ A simple search engine that uses simple Python data structures to store the data
 ## Usage
 
 1. **Install dependencies**  
+   
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
 2. **Prepare the data**
    The data should be free text and in the `data` folder. Every file in the `data` folder will be indexed as a document.
