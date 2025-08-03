@@ -22,7 +22,7 @@ A simple search engine that uses simple Python data structures to store the data
 
    ```bash
    export PYTHONPATH=$(pwd)
-   python src/main.py
+   python src/run.py
    ```
 
    ### On Windows (PowerShell)
@@ -31,7 +31,7 @@ A simple search engine that uses simple Python data structures to store the data
 
    ```powershell
    $env:PYTHONPATH = (Get-Location)
-   python src\main.py
+   python src\run.py
    ```
 
 4. **Search for a query**
